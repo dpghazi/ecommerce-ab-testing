@@ -30,4 +30,4 @@ A company has developed a new web page in order to increase the number of users 
 | country       | string: US, CA, UK |
 
 ### Featured Notebook
-* [ECommerce A/B Testing](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
+* [ECommerce A/B Testing](https://dpghazi-wqu-ds.s3.amazonaws.com/ecommerce-ab-testing.html)
